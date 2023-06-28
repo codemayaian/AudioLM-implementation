@@ -1,0 +1,1 @@
+# generating coherent piano music continuations, despite being trained without any symbolic representation of music.
